@@ -1,0 +1,83 @@
+stride: 48
+topology: trianglelist
+format: DXGI_FORMAT_R16_UINT
+element[0]:
+  SemanticName: POSITION
+  SemanticIndex: 0
+  Format: R32G32B32_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 0
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[1]:
+  SemanticName: TANGENT
+  SemanticIndex: 0
+  Format: R8G8B8A8_SNORM
+  InputSlot: 0
+  AlignedByteOffset: 12
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[2]:
+  SemanticName: NORMAL
+  SemanticIndex: 0
+  Format: R8G8B8A8_SNORM
+  InputSlot: 0
+  AlignedByteOffset: 16
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[3]:
+  SemanticName: BLENDINDICES
+  SemanticIndex: 0
+  Format: R8G8B8A8_UINT
+  InputSlot: 0
+  AlignedByteOffset: 20
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[4]:
+  SemanticName: BLENDWEIGHT
+  SemanticIndex: 0
+  Format: R8G8B8A8_UNORM
+  InputSlot: 0
+  AlignedByteOffset: 24
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[5]:
+  SemanticName: COLOR
+  SemanticIndex: 0
+  Format: R8G8B8A8_UNORM
+  InputSlot: 0
+  AlignedByteOffset: 28
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[6]:
+  SemanticName: TEXCOORD
+  SemanticIndex: 0
+  Format: R16G16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 32
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[7]:
+  SemanticName: COLOR
+  SemanticIndex: 1
+  Format: R16G16_UNORM
+  InputSlot: 0
+  AlignedByteOffset: 36
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[8]:
+  SemanticName: TEXCOORD
+  SemanticIndex: 1
+  Format: R16G16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 40
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[9]:
+  SemanticName: TEXCOORD
+  SemanticIndex: 2
+  Format: R16G16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 44
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
