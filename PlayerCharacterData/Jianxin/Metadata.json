@@ -1,12 +1,12 @@
 {
-    "vb0_hash": "e9f8341f",
+    "vb0_hash": "9b60ec42",
     "cb4_hash": "f02baf77",
-    "vertex_count": 32309,
+    "vertex_count": 32290,
     "index_count": 128367,
     "components": [
         {
             "vertex_offset": 0,
-            "vertex_count": 3258,
+            "vertex_count": 3236,
             "index_offset": 0,
             "index_count": 11457,
             "vg_offset": 0,
@@ -30,7 +30,7 @@
             }
         },
         {
-            "vertex_offset": 3258,
+            "vertex_offset": 3236,
             "vertex_count": 6879,
             "index_offset": 11457,
             "index_count": 25437,
@@ -71,8 +71,8 @@
             }
         },
         {
-            "vertex_offset": 10137,
-            "vertex_count": 2542,
+            "vertex_offset": 10115,
+            "vertex_count": 2545,
             "index_offset": 36894,
             "index_count": 10869,
             "vg_offset": 46,
@@ -82,7 +82,7 @@
             }
         },
         {
-            "vertex_offset": 12679,
+            "vertex_offset": 12660,
             "vertex_count": 10308,
             "index_offset": 47763,
             "index_count": 43515,
@@ -189,7 +189,7 @@
             }
         },
         {
-            "vertex_offset": 22987,
+            "vertex_offset": 22968,
             "vertex_count": 8873,
             "index_offset": 91278,
             "index_count": 35379,
@@ -266,7 +266,7 @@
             }
         },
         {
-            "vertex_offset": 31860,
+            "vertex_offset": 31841,
             "vertex_count": 394,
             "index_offset": 126657,
             "index_count": 1512,
@@ -277,7 +277,7 @@
             }
         },
         {
-            "vertex_offset": 32254,
+            "vertex_offset": 32235,
             "vertex_count": 55,
             "index_offset": 128169,
             "index_count": 198,
@@ -293,10 +293,10 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "82d39ecb",
-        "scale_hash": "068dd115",
-        "vertex_count": 32984,
-        "dispatch_y": 1031,
+        "offsets_hash": "29ba85c5",
+        "scale_hash": "bc9677ff",
+        "vertex_count": 33005,
+        "dispatch_y": 1032,
         "checksum": 1876
     }
 }

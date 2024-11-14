@@ -1,12 +1,12 @@
 {
-    "vb0_hash": "5f8aac45",
+    "vb0_hash": "d14bed8b",
     "cb4_hash": "f02baf77",
-    "vertex_count": 69517,
-    "index_count": 285591,
+    "vertex_count": 69691,
+    "index_count": 286611,
     "components": [
         {
             "vertex_offset": 0,
-            "vertex_count": 9702,
+            "vertex_count": 9696,
             "index_offset": 0,
             "index_count": 40269,
             "vg_offset": 0,
@@ -59,7 +59,7 @@
             }
         },
         {
-            "vertex_offset": 9702,
+            "vertex_offset": 9696,
             "vertex_count": 4409,
             "index_offset": 40269,
             "index_count": 18657,
@@ -83,7 +83,7 @@
             }
         },
         {
-            "vertex_offset": 14111,
+            "vertex_offset": 14105,
             "vertex_count": 2723,
             "index_offset": 58926,
             "index_count": 11904,
@@ -94,10 +94,10 @@
             }
         },
         {
-            "vertex_offset": 16834,
-            "vertex_count": 18037,
+            "vertex_offset": 16828,
+            "vertex_count": 18217,
             "index_offset": 70830,
-            "index_count": 81513,
+            "index_count": 82533,
             "vg_offset": 59,
             "vg_count": 101,
             "vg_map": {
@@ -205,9 +205,9 @@
             }
         },
         {
-            "vertex_offset": 34871,
+            "vertex_offset": 35045,
             "vertex_count": 12523,
-            "index_offset": 152343,
+            "index_offset": 153363,
             "index_count": 46512,
             "vg_offset": 160,
             "vg_count": 69,
@@ -284,9 +284,9 @@
             }
         },
         {
-            "vertex_offset": 47394,
+            "vertex_offset": 47568,
             "vertex_count": 21664,
-            "index_offset": 198855,
+            "index_offset": 199875,
             "index_count": 84606,
             "vg_offset": 229,
             "vg_count": 47,
@@ -341,9 +341,9 @@
             }
         },
         {
-            "vertex_offset": 69058,
+            "vertex_offset": 69232,
             "vertex_count": 434,
-            "index_offset": 283461,
+            "index_offset": 284481,
             "index_count": 2028,
             "vg_offset": 276,
             "vg_count": 1,
@@ -352,9 +352,9 @@
             }
         },
         {
-            "vertex_offset": 69492,
+            "vertex_offset": 69666,
             "vertex_count": 25,
-            "index_offset": 285489,
+            "index_offset": 286509,
             "index_count": 102,
             "vg_offset": 277,
             "vg_count": 4,
@@ -367,10 +367,10 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "1ccb8008",
-        "scale_hash": "060f5303",
-        "vertex_count": 35064,
-        "dispatch_y": 1096,
+        "offsets_hash": "59f24b66",
+        "scale_hash": "277e18c9",
+        "vertex_count": 35098,
+        "dispatch_y": 1097,
         "checksum": 2156
     }
 }
