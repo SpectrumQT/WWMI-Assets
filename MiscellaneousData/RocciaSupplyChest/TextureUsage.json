@@ -1,0 +1,18 @@
+{
+    "Component 0": {
+        "ps-t0": [
+            "3cdcabaa-vs=bde1aae4d73e1a3f-ps=55c8f4c71117c9c1",
+            "b4337068-vs=53979d81d9b74f86-ps=0ffc0c44c8b14b90",
+            "87d73bf2-vs=a59bdae7aadf8b10-ps=ca134b7ad59cdf8c"
+        ],
+        "ps-t1": [
+            "b4337068-vs=bde1aae4d73e1a3f-ps=55c8f4c71117c9c1"
+        ],
+        "ps-t3": [
+            "87d73bf2-vs=bde1aae4d73e1a3f-ps=55c8f4c71117c9c1"
+        ],
+        "ps-t4": [
+            "df813937-vs=bde1aae4d73e1a3f-ps=55c8f4c71117c9c1"
+        ]
+    }
+}

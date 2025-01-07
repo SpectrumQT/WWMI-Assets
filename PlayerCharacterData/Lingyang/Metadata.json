@@ -1,12 +1,12 @@
 {
-    "vb0_hash": "9925d10e",
+    "vb0_hash": "8b3c13f9",
     "cb4_hash": "f02baf77",
-    "vertex_count": 30438,
+    "vertex_count": 30435,
     "index_count": 121797,
     "components": [
         {
             "vertex_offset": 0,
-            "vertex_count": 1954,
+            "vertex_count": 1951,
             "index_offset": 0,
             "index_count": 7884,
             "vg_offset": 0,
@@ -39,7 +39,7 @@
             }
         },
         {
-            "vertex_offset": 1954,
+            "vertex_offset": 1951,
             "vertex_count": 4765,
             "index_offset": 7884,
             "index_count": 18936,
@@ -64,7 +64,7 @@
             }
         },
         {
-            "vertex_offset": 6719,
+            "vertex_offset": 6716,
             "vertex_count": 2482,
             "index_offset": 26820,
             "index_count": 11040,
@@ -75,7 +75,7 @@
             }
         },
         {
-            "vertex_offset": 9201,
+            "vertex_offset": 9198,
             "vertex_count": 8808,
             "index_offset": 37860,
             "index_count": 40377,
@@ -152,7 +152,7 @@
             }
         },
         {
-            "vertex_offset": 18009,
+            "vertex_offset": 18006,
             "vertex_count": 12059,
             "index_offset": 78237,
             "index_count": 42102,
@@ -243,7 +243,7 @@
             }
         },
         {
-            "vertex_offset": 30068,
+            "vertex_offset": 30065,
             "vertex_count": 310,
             "index_offset": 120339,
             "index_count": 1188,
@@ -254,7 +254,7 @@
             }
         },
         {
-            "vertex_offset": 30378,
+            "vertex_offset": 30375,
             "vertex_count": 60,
             "index_offset": 121527,
             "index_count": 270,
@@ -272,8 +272,8 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "d02c1cb1",
-        "scale_hash": "2e3de562",
+        "offsets_hash": "b239a59d",
+        "scale_hash": "497106c3",
         "vertex_count": 31803,
         "dispatch_y": 994,
         "checksum": 1098

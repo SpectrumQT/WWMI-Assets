@@ -1,0 +1,45 @@
+{
+    "vb0_hash": "ec8b1532",
+    "cb4_hash": "f02baf77",
+    "vertex_count": 19158,
+    "index_count": 59940,
+    "components": [
+        {
+            "vertex_offset": 0,
+            "vertex_count": 19158,
+            "index_offset": 0,
+            "index_count": 59940,
+            "vg_offset": 0,
+            "vg_count": 20,
+            "vg_map": {
+                "0": 0,
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5,
+                "6": 6,
+                "7": 7,
+                "8": 8,
+                "9": 9,
+                "10": 10,
+                "11": 11,
+                "12": 12,
+                "13": 13,
+                "14": 14,
+                "15": 15,
+                "16": 16,
+                "17": 17,
+                "18": 18,
+                "19": 19
+            }
+        }
+    ],
+    "shapekeys": {
+        "offsets_hash": "",
+        "scale_hash": "",
+        "vertex_count": 0,
+        "dispatch_y": 0,
+        "checksum": 0
+    }
+}
