@@ -1,12 +1,12 @@
 {
-    "vb0_hash": "8ee2fb7c",
+    "vb0_hash": "026f7616",
     "cb4_hash": "f02baf77",
-    "vertex_count": 45776,
+    "vertex_count": 45778,
     "index_count": 196860,
     "components": [
         {
             "vertex_offset": 0,
-            "vertex_count": 3174,
+            "vertex_count": 3176,
             "index_offset": 0,
             "index_count": 13254,
             "vg_offset": 0,
@@ -47,7 +47,7 @@
             }
         },
         {
-            "vertex_offset": 3174,
+            "vertex_offset": 3176,
             "vertex_count": 7819,
             "index_offset": 13254,
             "index_count": 32517,
@@ -92,7 +92,7 @@
             }
         },
         {
-            "vertex_offset": 10993,
+            "vertex_offset": 10995,
             "vertex_count": 3243,
             "index_offset": 45771,
             "index_count": 14568,
@@ -103,7 +103,7 @@
             }
         },
         {
-            "vertex_offset": 14236,
+            "vertex_offset": 14238,
             "vertex_count": 12836,
             "index_offset": 60339,
             "index_count": 55686,
@@ -204,7 +204,7 @@
             }
         },
         {
-            "vertex_offset": 27072,
+            "vertex_offset": 27074,
             "vertex_count": 17776,
             "index_offset": 116025,
             "index_count": 77277,
@@ -304,7 +304,7 @@
             }
         },
         {
-            "vertex_offset": 44848,
+            "vertex_offset": 44850,
             "vertex_count": 442,
             "index_offset": 193302,
             "index_count": 1584,
@@ -323,7 +323,7 @@
             }
         },
         {
-            "vertex_offset": 45290,
+            "vertex_offset": 45292,
             "vertex_count": 486,
             "index_offset": 194886,
             "index_count": 1974,
@@ -335,8 +335,8 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "00b2a919",
-        "scale_hash": "ecac2cc5",
+        "offsets_hash": "8ba3d365",
+        "scale_hash": "2c8f9580",
         "vertex_count": 35926,
         "dispatch_y": 1123,
         "checksum": 2213

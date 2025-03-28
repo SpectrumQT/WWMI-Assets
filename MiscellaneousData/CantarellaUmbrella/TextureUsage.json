@@ -1,0 +1,28 @@
+{
+    "Component 0": {
+        "ps-t0": [
+            "daed0b06-vs=c2feefd6ba483d72-ps=ffa743a7b4665218",
+            "52a54db3-vs=30f867c3819d2f1f-ps=0ffc0c44c8b14b90",
+            "dcb62fb6-vs=a7964fb20a5a66a1-ps=ca134b7ad59cdf8c"
+        ],
+        "ps-t1": [
+            "52a54db3-vs=c2feefd6ba483d72-ps=ffa743a7b4665218"
+        ],
+        "ps-t2": [
+            "dcb62fb6-vs=a7964fb20a5a66a1-ps=ca134b7ad59cdf8c"
+        ]
+    },
+    "Component 1": {
+        "ps-t0": [
+            "daed0b06-vs=c2feefd6ba483d72-ps=ffa743a7b4665218",
+            "52a54db3-vs=30f867c3819d2f1f-ps=0ffc0c44c8b14b90",
+            "dcb62fb6-vs=a7964fb20a5a66a1-ps=ca134b7ad59cdf8c"
+        ],
+        "ps-t1": [
+            "52a54db3-vs=c2feefd6ba483d72-ps=ffa743a7b4665218"
+        ],
+        "ps-t2": [
+            "dcb62fb6-vs=a7964fb20a5a66a1-ps=ca134b7ad59cdf8c"
+        ]
+    }
+}
