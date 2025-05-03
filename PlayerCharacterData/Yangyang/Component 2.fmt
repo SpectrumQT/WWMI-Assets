@@ -1,4 +1,4 @@
-stride: 450
+stride: 564
 topology: trianglelist
 format: DXGI_FORMAT_R16_UINT
 element[0]:
@@ -615,5 +615,157 @@ element[76]:
   Format: R16G16B16_FLOAT
   InputSlot: 0
   AlignedByteOffset: 444
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[77]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 86
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 450
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[78]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 87
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 456
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[79]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 88
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 462
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[80]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 89
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 468
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[81]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 90
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 474
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[82]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 91
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 480
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[83]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 92
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 486
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[84]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 93
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 492
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[85]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 94
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 498
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[86]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 95
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 504
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[87]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 96
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 510
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[88]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 97
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 516
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[89]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 98
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 522
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[90]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 99
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 528
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[91]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 100
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 534
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[92]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 101
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 540
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[93]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 102
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 546
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[94]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 103
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 552
+  InputSlotClass: per-vertex
+  InstanceDataStepRate: 0
+element[95]:
+  SemanticName: SHAPEKEY
+  SemanticIndex: 104
+  Format: R16G16B16_FLOAT
+  InputSlot: 0
+  AlignedByteOffset: 558
   InputSlotClass: per-vertex
   InstanceDataStepRate: 0

@@ -1,8 +1,8 @@
 {
-    "vb0_hash": "249200ff",
+    "vb0_hash": "bb5dfeaf",
     "cb4_hash": "f02baf77",
-    "vertex_count": 30042,
-    "index_count": 120096,
+    "vertex_count": 30034,
+    "index_count": 120099,
     "components": [
         {
             "vertex_offset": 0,
@@ -58,7 +58,7 @@
         },
         {
             "vertex_offset": 7400,
-            "vertex_count": 2677,
+            "vertex_count": 2674,
             "index_offset": 27090,
             "index_count": 11328,
             "vg_offset": 32,
@@ -68,7 +68,7 @@
             }
         },
         {
-            "vertex_offset": 10077,
+            "vertex_offset": 10074,
             "vertex_count": 2997,
             "index_offset": 38418,
             "index_count": 14595,
@@ -124,7 +124,7 @@
             }
         },
         {
-            "vertex_offset": 13074,
+            "vertex_offset": 13071,
             "vertex_count": 9175,
             "index_offset": 53013,
             "index_count": 35373,
@@ -164,21 +164,21 @@
                 "30": 109,
                 "31": 110,
                 "32": 111,
-                "33": 77,
+                "33": 112,
                 "34": 113,
                 "35": 114,
                 "36": 115,
                 "37": 116,
                 "38": 117,
-                "39": 118,
+                "39": 77,
                 "40": 119,
                 "41": 120,
                 "42": 121,
                 "43": 122,
                 "44": 123,
                 "45": 60,
-                "46": 41,
-                "47": 40,
+                "46": 38,
+                "47": 37,
                 "48": 55,
                 "49": 56,
                 "50": 33,
@@ -186,16 +186,16 @@
                 "52": 53,
                 "53": 43,
                 "54": 54,
-                "55": 39,
-                "56": 34,
-                "57": 38,
+                "55": 34,
+                "56": 36,
+                "57": 39,
                 "58": 2,
                 "59": 138,
                 "60": 139
             }
         },
         {
-            "vertex_offset": 22249,
+            "vertex_offset": 22246,
             "vertex_count": 7306,
             "index_offset": 88386,
             "index_count": 29547,
@@ -247,10 +247,10 @@
             }
         },
         {
-            "vertex_offset": 29555,
-            "vertex_count": 465,
+            "vertex_offset": 29552,
+            "vertex_count": 460,
             "index_offset": 117933,
-            "index_count": 2085,
+            "index_count": 2088,
             "vg_offset": 182,
             "vg_count": 1,
             "vg_map": {
@@ -258,9 +258,9 @@
             }
         },
         {
-            "vertex_offset": 30020,
+            "vertex_offset": 30012,
             "vertex_count": 22,
-            "index_offset": 120018,
+            "index_offset": 120021,
             "index_count": 78,
             "vg_offset": 183,
             "vg_count": 1,
@@ -270,10 +270,138 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "d70fa623",
-        "scale_hash": "1b1ed7be",
-        "vertex_count": 27845,
-        "dispatch_y": 871,
+        "offsets_hash": "b43ab901",
+        "scale_hash": "15a4a9b9",
+        "vertex_count": 27872,
+        "dispatch_y": 872,
         "checksum": 1338
+    },
+    "export_format": {
+        "Index": {
+            "semantics": [
+                {
+                    "name": "INDEX",
+                    "index": 0,
+                    "format": "R32_UINT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Position": {
+            "semantics": [
+                {
+                    "name": "POSITION",
+                    "index": 0,
+                    "format": "R32G32B32_FLOAT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Blend": {
+            "semantics": [
+                {
+                    "name": "BLENDINDICES",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                },
+                {
+                    "name": "BLENDWEIGHT",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "Vector": {
+            "semantics": [
+                {
+                    "name": "TANGENT",
+                    "index": 0,
+                    "format": "R8G8B8A8_SNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "NORMAL",
+                    "index": 0,
+                    "format": "R8G8B8_SNORM",
+                    "stride": 3
+                },
+                {
+                    "name": "BITANGENTSIGN",
+                    "index": 0,
+                    "format": "R8_SNORM",
+                    "stride": 1
+                }
+            ]
+        },
+        "Color": {
+            "semantics": [
+                {
+                    "name": "COLOR",
+                    "index": 0,
+                    "format": "R8G8B8A8_UNORM",
+                    "stride": 4
+                }
+            ]
+        },
+        "TexCoord": {
+            "semantics": [
+                {
+                    "name": "TEXCOORD",
+                    "index": 0,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "COLOR",
+                    "index": 1,
+                    "format": "R16G16_UNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 1,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 2,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 0,
+                    "format": "R32G32B32A32_UINT",
+                    "stride": 16
+                }
+            ]
+        },
+        "ShapeKeyVertexId": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 1,
+                    "format": "R32_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyVertexOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 2,
+                    "format": "R16_FLOAT",
+                    "stride": 2
+                }
+            ]
+        }
     }
 }

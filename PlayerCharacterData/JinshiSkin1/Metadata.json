@@ -1,5 +1,5 @@
 {
-    "vb0_hash": "35f167aa",
+    "vb0_hash": "8a382bf1",
     "cb4_hash": "f02baf77",
     "vertex_count": 65604,
     "index_count": 241500,
@@ -239,14 +239,14 @@
                 "62": 12,
                 "63": 29,
                 "64": 113,
-                "65": 187,
-                "66": 188,
-                "67": 28,
-                "68": 31,
-                "69": 30,
-                "70": 53,
-                "71": 114,
-                "72": 32,
+                "65": 28,
+                "66": 31,
+                "67": 30,
+                "68": 53,
+                "69": 114,
+                "70": 32,
+                "71": 193,
+                "72": 194,
                 "73": 195,
                 "74": 196,
                 "75": 197,
@@ -412,8 +412,136 @@
     "shapekeys": {
         "offsets_hash": "5c9d8190",
         "scale_hash": "cbe0b3ad",
-        "vertex_count": 35567,
+        "vertex_count": 35571,
         "dispatch_y": 1112,
-        "checksum": 1360
+        "checksum": 2010
+    },
+    "export_format": {
+        "Index": {
+            "semantics": [
+                {
+                    "name": "INDEX",
+                    "index": 0,
+                    "format": "R32_UINT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Position": {
+            "semantics": [
+                {
+                    "name": "POSITION",
+                    "index": 0,
+                    "format": "R32G32B32_FLOAT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Blend": {
+            "semantics": [
+                {
+                    "name": "BLENDINDICES",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                },
+                {
+                    "name": "BLENDWEIGHT",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "Vector": {
+            "semantics": [
+                {
+                    "name": "TANGENT",
+                    "index": 0,
+                    "format": "R8G8B8A8_SNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "NORMAL",
+                    "index": 0,
+                    "format": "R8G8B8_SNORM",
+                    "stride": 3
+                },
+                {
+                    "name": "BITANGENTSIGN",
+                    "index": 0,
+                    "format": "R8_SNORM",
+                    "stride": 1
+                }
+            ]
+        },
+        "Color": {
+            "semantics": [
+                {
+                    "name": "COLOR",
+                    "index": 0,
+                    "format": "R8G8B8A8_UNORM",
+                    "stride": 4
+                }
+            ]
+        },
+        "TexCoord": {
+            "semantics": [
+                {
+                    "name": "TEXCOORD",
+                    "index": 0,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "COLOR",
+                    "index": 1,
+                    "format": "R16G16_UNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 1,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 2,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 0,
+                    "format": "R32G32B32A32_UINT",
+                    "stride": 16
+                }
+            ]
+        },
+        "ShapeKeyVertexId": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 1,
+                    "format": "R32_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyVertexOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 2,
+                    "format": "R16_FLOAT",
+                    "stride": 2
+                }
+            ]
+        }
     }
 }

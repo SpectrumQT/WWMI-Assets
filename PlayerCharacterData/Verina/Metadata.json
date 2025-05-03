@@ -280,5 +280,133 @@
         "vertex_count": 29160,
         "dispatch_y": 912,
         "checksum": 1104
+    },
+    "export_format": {
+        "Index": {
+            "semantics": [
+                {
+                    "name": "INDEX",
+                    "index": 0,
+                    "format": "R32_UINT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Position": {
+            "semantics": [
+                {
+                    "name": "POSITION",
+                    "index": 0,
+                    "format": "R32G32B32_FLOAT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Blend": {
+            "semantics": [
+                {
+                    "name": "BLENDINDICES",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                },
+                {
+                    "name": "BLENDWEIGHT",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "Vector": {
+            "semantics": [
+                {
+                    "name": "TANGENT",
+                    "index": 0,
+                    "format": "R8G8B8A8_SNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "NORMAL",
+                    "index": 0,
+                    "format": "R8G8B8_SNORM",
+                    "stride": 3
+                },
+                {
+                    "name": "BITANGENTSIGN",
+                    "index": 0,
+                    "format": "R8_SNORM",
+                    "stride": 1
+                }
+            ]
+        },
+        "Color": {
+            "semantics": [
+                {
+                    "name": "COLOR",
+                    "index": 0,
+                    "format": "R8G8B8A8_UNORM",
+                    "stride": 4
+                }
+            ]
+        },
+        "TexCoord": {
+            "semantics": [
+                {
+                    "name": "TEXCOORD",
+                    "index": 0,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "COLOR",
+                    "index": 1,
+                    "format": "R16G16_UNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 1,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 2,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 0,
+                    "format": "R32G32B32A32_UINT",
+                    "stride": 16
+                }
+            ]
+        },
+        "ShapeKeyVertexId": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 1,
+                    "format": "R32_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyVertexOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 2,
+                    "format": "R16_FLOAT",
+                    "stride": 2
+                }
+            ]
+        }
     }
 }
