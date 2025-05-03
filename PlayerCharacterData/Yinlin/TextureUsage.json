@@ -1,15 +1,12 @@
 {
     "Component 0": {
         "ps-t0": [
-            "8383cbbf-vs=15a650e1543955b5-ps=5b320eb9e8ce3a03",
+            "30053482-vs=15a650e1543955b5-ps=5b320eb9e8ce3a03",
             "1f0f6dc8-vs=f3bbaf68b55cbef4-ps=c26f803e73e26d47",
             "c235c6a7-vs=4c4d035ba3267562-ps=ca134b7ad59cdf8c"
         ],
         "ps-t1": [
             "71525c2a-vs=502d316c4bb05a7f-ps=b8d653fe5f4e6b25"
-        ],
-        "ps-t2": [
-            "711af10e-vs=15a650e1543955b5-ps=5b320eb9e8ce3a03"
         ]
     },
     "Component 1": {
@@ -26,9 +23,6 @@
             "30053482-vs=32b26c0a24729d41-ps=dc7054048423aa25",
             "8383cbbf-vs=c8e511dc37ee7bdd-ps=8db8b2b5434fdfdb",
             "c235c6a7-vs=cdb2ad85b6227272-ps=ca134b7ad59cdf8c"
-        ],
-        "ps-t2": [
-            "711af10e-vs=c8e511dc37ee7bdd-ps=8db8b2b5434fdfdb"
         ]
     },
     "Component 3": {
@@ -65,8 +59,7 @@
             "8383cbbf-vs=d777e4cc24663673-ps=7274753cff7aeff3"
         ],
         "ps-t2": [
-            "e56f82b1-vs=d777e4cc24663673-ps=7274753cff7aeff3",
-            "711af10e-vs=5a96e7e00473cfd8-ps=8ce56e25e1bc0c89"
+            "e56f82b1-vs=d777e4cc24663673-ps=7274753cff7aeff3"
         ]
     },
     "Component 6": {

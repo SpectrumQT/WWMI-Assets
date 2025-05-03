@@ -94,11 +94,11 @@
         }
     ],
     "shapekeys": {
-        "offsets_hash": "85dd5748",
-        "scale_hash": "fded94c3",
-        "vertex_count": 25078,
-        "dispatch_y": 784,
-        "checksum": 2047
+        "offsets_hash": "",
+        "scale_hash": "",
+        "vertex_count": 0,
+        "dispatch_y": 0,
+        "checksum": 0
     },
     "export_format": {
         "Index": {

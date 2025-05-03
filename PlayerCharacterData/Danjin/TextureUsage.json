@@ -7,12 +7,6 @@
         ],
         "ps-t1": [
             "5da1a7ae-vs=4c4d035ba3267562-ps=ca134b7ad59cdf8c"
-        ],
-        "ps-t2": [
-            "e2321307-vs=15a650e1543955b5-ps=5b320eb9e8ce3a03"
-        ],
-        "ps-t3": [
-            "3cd03f60-vs=502d316c4bb05a7f-ps=b8d653fe5f4e6b25"
         ]
     },
     "Component 1": {
@@ -24,26 +18,18 @@
         "ps-t1": [
             "da15e0f7-vs=502d316c4bb05a7f-ps=b8d653fe5f4e6b25",
             "5da1a7ae-vs=4c4d035ba3267562-ps=ca134b7ad59cdf8c"
-        ],
-        "ps-t3": [
-            "3cd03f60-vs=502d316c4bb05a7f-ps=b8d653fe5f4e6b25"
         ]
     },
     "Component 2": {
         "ps-t0": [
             "d2db5a56-vs=878d18f66221a0ec-ps=ce9643104257a062",
             "8383cbbf-vs=c8e511dc37ee7bdd-ps=8db8b2b5434fdfdb",
+            "bcf3db0a-vs=ef97c75172bd2238-ps=72bde3a62500aa28",
             "1dd49aa4-vs=6b334b53e149540a-ps=50f2ed8061f3d351"
         ],
         "ps-t1": [
             "500d4413-vs=878d18f66221a0ec-ps=ce9643104257a062",
             "5da1a7ae-vs=6b334b53e149540a-ps=50f2ed8061f3d351"
-        ],
-        "ps-t2": [
-            "e2321307-vs=c8e511dc37ee7bdd-ps=8db8b2b5434fdfdb"
-        ],
-        "ps-t3": [
-            "3cd03f60-vs=c8e511dc37ee7bdd-ps=8db8b2b5434fdfdb"
         ]
     },
     "Component 3": {
@@ -85,11 +71,7 @@
             "8383cbbf-vs=3c2d2ccec29366c3-ps=95ef57eafaddb1e9"
         ],
         "ps-t2": [
-            "63fbfe72-vs=3c2d2ccec29366c3-ps=95ef57eafaddb1e9",
-            "e2321307-vs=5a96e7e00473cfd8-ps=8ce56e25e1bc0c89"
-        ],
-        "ps-t3": [
-            "3cd03f60-vs=5a96e7e00473cfd8-ps=8ce56e25e1bc0c89"
+            "63fbfe72-vs=3c2d2ccec29366c3-ps=95ef57eafaddb1e9"
         ]
     }
 }
