@@ -5,18 +5,14 @@
             "e02f1a3f-vs=b74d260b4b42d0e2-ps=e5b6a05483f901fe"
         ],
         "ps-t1": [
-            "8a3d8094-vs=1b866658e9f44776-ps=ccbc525ece2b49e0"
-        ],
-        "ps-t6": [
-            "8a0e76fc-vs=1b866658e9f44776-ps=ccbc525ece2b49e0",
-            "c02e94a7-vs=6f57949c7b050b19-ps=8a6573a48bdc377c"
+            "8a3d8094-vs=1b866658e9f44776-ps=ccbc525ece2b49e0",
+            "dcae957e-vs=b74d260b4b42d0e2-ps=e5b6a05483f901fe"
         ],
         "ps-t7": [
-            "fb01fc68-vs=1b866658e9f44776-ps=ccbc525ece2b49e0",
-            "8a0e76fc-vs=6f57949c7b050b19-ps=8a6573a48bdc377c"
+            "c02e94a7-vs=6f57949c7b050b19-ps=8a6573a48bdc377c"
         ],
         "ps-t8": [
-            "fb01fc68-vs=6f57949c7b050b19-ps=8a6573a48bdc377c"
+            "8a0e76fc-vs=6f57949c7b050b19-ps=8a6573a48bdc377c"
         ]
     }
 }

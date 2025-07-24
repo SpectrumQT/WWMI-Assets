@@ -1,11 +1,7 @@
 {
     "Component 0": {
-        "ps-t0": [
-            "eae4b510-vs=1b866658e9f44776-ps=f3f58e3d7bcc9542",
-            "f35fd984-vs=b6ff3b0cff5b3b70-ps=98cff9d7fdf20e55"
-        ],
         "ps-t1": [
-            "f35fd984-vs=1b866658e9f44776-ps=f3f58e3d7bcc9542"
+            "24d244c6-vs=b6ff3b0cff5b3b70-ps=98cff9d7fdf20e55"
         ]
     }
 }

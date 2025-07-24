@@ -2,14 +2,11 @@
     "Component 0": {
         "ps-t0": [
             "37bb6df2-vs=1b866658e9f44776-ps=ccbc525ece2b49e0",
-            "3253c8b4-vs=b74d260b4b42d0e2-ps=e5b6a05483f901fe",
-            "8b25adba-vs=60b7f94da114eca0-ps=ca134b7ad59cdf8c"
+            "3253c8b4-vs=60b7f94da114eca0-ps=ca134b7ad59cdf8c"
         ],
         "ps-t1": [
-            "be7892dd-vs=1b866658e9f44776-ps=ccbc525ece2b49e0"
-        ],
-        "ps-t3": [
-            "93dfc47e-vs=1b866658e9f44776-ps=ccbc525ece2b49e0"
+            "be7892dd-vs=1b866658e9f44776-ps=ccbc525ece2b49e0",
+            "79c389b5-vs=60b7f94da114eca0-ps=ca134b7ad59cdf8c"
         ]
     }
 }
