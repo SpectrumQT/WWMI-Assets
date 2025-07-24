@@ -1,0 +1,287 @@
+{
+    "vb0_hash": "3ae1074d",
+    "cb4_hash": "f02baf77",
+    "vertex_count": 7571,
+    "index_count": 37578,
+    "components": [
+        {
+            "vertex_offset": 0,
+            "vertex_count": 4650,
+            "index_offset": 0,
+            "index_count": 23658,
+            "vg_offset": 0,
+            "vg_count": 11,
+            "vg_map": {
+                "0": 0,
+                "1": 1,
+                "2": 2,
+                "3": 3,
+                "4": 4,
+                "5": 5,
+                "6": 6,
+                "7": 7,
+                "8": 8,
+                "9": 9,
+                "10": 10
+            }
+        },
+        {
+            "vertex_offset": 4650,
+            "vertex_count": 1174,
+            "index_offset": 23658,
+            "index_count": 5280,
+            "vg_offset": 11,
+            "vg_count": 23,
+            "vg_map": {
+                "0": 11,
+                "1": 12,
+                "2": 13,
+                "3": 14,
+                "4": 15,
+                "5": 16,
+                "6": 17,
+                "7": 18,
+                "8": 19,
+                "9": 20,
+                "10": 21,
+                "11": 22,
+                "12": 23,
+                "13": 24,
+                "14": 25,
+                "15": 26,
+                "16": 27,
+                "17": 28,
+                "18": 29,
+                "19": 30,
+                "20": 31,
+                "21": 32,
+                "22": 33
+            }
+        },
+        {
+            "vertex_offset": 5824,
+            "vertex_count": 399,
+            "index_offset": 28938,
+            "index_count": 2016,
+            "vg_offset": 34,
+            "vg_count": 20,
+            "vg_map": {
+                "0": 22,
+                "1": 23,
+                "2": 24,
+                "3": 25,
+                "4": 27,
+                "5": 21,
+                "6": 17,
+                "7": 16,
+                "8": 15,
+                "9": 13,
+                "10": 18,
+                "11": 19,
+                "12": 20,
+                "13": 26,
+                "14": 33,
+                "15": 32,
+                "16": 28,
+                "17": 31,
+                "18": 29,
+                "19": 30
+            }
+        },
+        {
+            "vertex_offset": 6223,
+            "vertex_count": 550,
+            "index_offset": 30954,
+            "index_count": 2592,
+            "vg_offset": 54,
+            "vg_count": 20,
+            "vg_map": {
+                "0": 22,
+                "1": 23,
+                "2": 24,
+                "3": 25,
+                "4": 27,
+                "5": 21,
+                "6": 17,
+                "7": 16,
+                "8": 15,
+                "9": 13,
+                "10": 18,
+                "11": 19,
+                "12": 20,
+                "13": 26,
+                "14": 33,
+                "15": 32,
+                "16": 28,
+                "17": 31,
+                "18": 29,
+                "19": 30
+            }
+        },
+        {
+            "vertex_offset": 6773,
+            "vertex_count": 798,
+            "index_offset": 33546,
+            "index_count": 4032,
+            "vg_offset": 74,
+            "vg_count": 20,
+            "vg_map": {
+                "0": 20,
+                "1": 19,
+                "2": 18,
+                "3": 13,
+                "4": 15,
+                "5": 16,
+                "6": 17,
+                "7": 21,
+                "8": 27,
+                "9": 24,
+                "10": 22,
+                "11": 23,
+                "12": 25,
+                "13": 26,
+                "14": 33,
+                "15": 32,
+                "16": 28,
+                "17": 31,
+                "18": 29,
+                "19": 30
+            }
+        }
+    ],
+    "shapekeys": {
+        "offsets_hash": "",
+        "scale_hash": "",
+        "vertex_count": 0,
+        "dispatch_y": 0,
+        "checksum": 0
+    },
+    "export_format": {
+        "Index": {
+            "semantics": [
+                {
+                    "name": "INDEX",
+                    "index": 0,
+                    "format": "R32_UINT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Position": {
+            "semantics": [
+                {
+                    "name": "POSITION",
+                    "index": 0,
+                    "format": "R32G32B32_FLOAT",
+                    "stride": 12
+                }
+            ]
+        },
+        "Blend": {
+            "semantics": [
+                {
+                    "name": "BLENDINDICES",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                },
+                {
+                    "name": "BLENDWEIGHT",
+                    "index": 0,
+                    "format": "R8_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "Vector": {
+            "semantics": [
+                {
+                    "name": "TANGENT",
+                    "index": 0,
+                    "format": "R8G8B8A8_SNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "NORMAL",
+                    "index": 0,
+                    "format": "R8G8B8_SNORM",
+                    "stride": 3
+                },
+                {
+                    "name": "BITANGENTSIGN",
+                    "index": 0,
+                    "format": "R8_SNORM",
+                    "stride": 1
+                }
+            ]
+        },
+        "Color": {
+            "semantics": [
+                {
+                    "name": "COLOR",
+                    "index": 0,
+                    "format": "R8G8B8A8_UNORM",
+                    "stride": 4
+                }
+            ]
+        },
+        "TexCoord": {
+            "semantics": [
+                {
+                    "name": "TEXCOORD",
+                    "index": 0,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "COLOR",
+                    "index": 1,
+                    "format": "R16G16_UNORM",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 1,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                },
+                {
+                    "name": "TEXCOORD",
+                    "index": 2,
+                    "format": "R16G16_FLOAT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 0,
+                    "format": "R32G32B32A32_UINT",
+                    "stride": 16
+                }
+            ]
+        },
+        "ShapeKeyVertexId": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 1,
+                    "format": "R32_UINT",
+                    "stride": 4
+                }
+            ]
+        },
+        "ShapeKeyVertexOffset": {
+            "semantics": [
+                {
+                    "name": "SHAPEKEY",
+                    "index": 2,
+                    "format": "R16_FLOAT",
+                    "stride": 2
+                }
+            ]
+        }
+    }
+}
